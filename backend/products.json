@@ -1,0 +1,19 @@
+{
+    "banks": [
+      {
+        "institution": "Bank A",
+        "products": [
+          { "name": "Fixed Deposit", "interestRate": 6.5, "lockIn": "1 year" },
+          { "name": "Savings Account", "interestRate": 4.0 }
+        ]
+      },
+      {
+        "institution": "Bank B",
+        "products": [
+          { "name": "Fixed Deposit", "interestRate": 6.2, "lockIn": "2 years" },
+          { "name": "Savings Account", "interestRate": 3.5 }
+        ]
+      }
+    ]
+  }
+  
